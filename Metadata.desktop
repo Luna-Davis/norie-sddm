@@ -1,0 +1,11 @@
+[SddmGreeterTheme]
+Name=Norie
+Description=Norie greeter: lock screen, then a tonal login card
+Author=Lunatic
+Version=1.0
+Type=sddm-theme
+MainScript=Main.qml
+ConfigFile=theme.conf
+Theme-Id=norie
+Theme-API=2.0
+QtVersion=6
